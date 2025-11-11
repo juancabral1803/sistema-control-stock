@@ -4,7 +4,7 @@ Trabajo Integrador – Ingeniería del Software
 Docente: Luis Papazoglu
 Metodologías: Scrum + Extreme Programming (XP)
 
-📖 Descripción general
+Descripción general
 
 El Sistema de Control de Stock es una aplicación web desarrollada como trabajo integrador para aplicar las metodologías ágiles Scrum y Extreme Programming (XP) en un contexto real de desarrollo de software.
 
