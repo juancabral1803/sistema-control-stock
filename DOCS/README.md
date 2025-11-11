@@ -1,5 +1,5 @@
 Sistema de Control de Stock
-– Ingeniería del Software
+– Ingeniería del Softwar
 
 Docente: Luis Papazoglu
 Metodologías: Scrum + Extreme Programming (XP)
