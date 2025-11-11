@@ -80,21 +80,23 @@ Se buscó cumplir con **entregas iterativas e incrementales**, priorizando la **
 
 git clone https://github.com/<usuario>/<repositorio>.git
 
-**Crear la base de datos en MySQL:**
+**2. Crear la base de datos en MySQL:**
 
 CREATE DATABASE control_stock;
 
-**Configurar las credenciales en el archivo application.properties:**
+**3. Configurar las credenciales en el archivo application.properties:**
 
 spring.datasource.url=jdbc:mysql://localhost:3306/control_stock
+
 spring.datasource.username=tu_usuario
+
 spring.datasource.password=tu_contraseña
 
-**Ejecutar la aplicación:**
+**4. Ejecutar la aplicación:**
 
 mvn spring-boot:run
 
-**Abrir el navegador y acceder a:**
+**5. Abrir el navegador y acceder a:**
 
 http://localhost:8080
 
