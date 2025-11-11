@@ -1,4 +1,4 @@
-🧾 Sistema de Control de Stock
+Sistema de Control de Stock
 Trabajo Integrador – Ingeniería del Software
 
 Docente: Luis Papazoglu
