@@ -1,20 +1,5 @@
 # Especificación de Requisitos del Proyecto
 
-## Índice
-
- [Información general](#1-información-general)  
- [Descripción general del sistema](#2-descripción-general-del-sistema)  
- [Actores del sistema](#3-actores-del-sistema)  
- [Requisitos funcionales](#4-requisitos-funcionales)  
- [Requisitos no funcionales](#5-requisitos-no-funcionales)  
- [Tecnologías y entorno](#6-tecnologías-y-entorno)  
- [Planificación ágil](#7-planificación-ágil)  
- [Historias de usuario (resumen)](#8-historias-de-usuario-resumen)  
- [Criterios de aceptación generales](#9-criterios-de-aceptación-generales)  
- [Riesgos y consideraciones](#10-riesgos-y-consideraciones)
-
----
-
 ##  Información general
 
 **Proyecto:** Sistema de Control de Stock  
