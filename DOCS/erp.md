@@ -7,11 +7,11 @@
 **Metodología:** Scrum + XP  
 
 **Equipo:**  
-- Juan Pérez (**Scrum Master**)  
-- María López (**Product Owner**)  
-- Carlos Gómez y Ana Díaz (**Equipo de desarrollo**)  
+- Silclir Alejandro (**Scrum Master**)  
+- Cabral Juan (**Product Owner**)  
+- Silclir Alejandro y Ruiz Diaz Rocio (**Equipo de desarrollo**)  
 
-**Repositorio GitHub:** [a completar con el enlace del grupo]
+**Repositorio GitHub:** 
 
 ---
 
