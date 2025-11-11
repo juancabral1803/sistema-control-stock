@@ -47,6 +47,7 @@ Se buscó cumplir con **entregas iterativas e incrementales**, priorizando la **
 
 ##  Estructura del repositorio
 
+´´´
  sistema-control-stock/
 ┣  docs/
 ┃ ┣  iteracion_1/
@@ -61,6 +62,7 @@ Se buscó cumplir con **entregas iterativas e incrementales**, priorizando la **
 ┃ ┗  erp.md
 ┣ 📄 README.md
 
+´´´
 ---
 
 ##  Ejecución del proyecto
