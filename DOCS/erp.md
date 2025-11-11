@@ -2,20 +2,20 @@
 
 ## Índice
 
-1. [Información general](#1-información-general)  
-2. [Descripción general del sistema](#2-descripción-general-del-sistema)  
-3. [Actores del sistema](#3-actores-del-sistema)  
-4. [Requisitos funcionales](#4-requisitos-funcionales)  
-5. [Requisitos no funcionales](#5-requisitos-no-funcionales)  
-6. [Tecnologías y entorno](#6-tecnologías-y-entorno)  
-7. [Planificación ágil](#7-planificación-ágil)  
-8. [Historias de usuario (resumen)](#8-historias-de-usuario-resumen)  
-9. [Criterios de aceptación generales](#9-criterios-de-aceptación-generales)  
-10. [Riesgos y consideraciones](#10-riesgos-y-consideraciones)
+ [Información general](#1-información-general)  
+ [Descripción general del sistema](#2-descripción-general-del-sistema)  
+ [Actores del sistema](#3-actores-del-sistema)  
+ [Requisitos funcionales](#4-requisitos-funcionales)  
+ [Requisitos no funcionales](#5-requisitos-no-funcionales)  
+ [Tecnologías y entorno](#6-tecnologías-y-entorno)  
+ [Planificación ágil](#7-planificación-ágil)  
+ [Historias de usuario (resumen)](#8-historias-de-usuario-resumen)  
+ [Criterios de aceptación generales](#9-criterios-de-aceptación-generales)  
+ [Riesgos y consideraciones](#10-riesgos-y-consideraciones)
 
 ---
 
-## 1. Información general
+##  Información general
 
 **Proyecto:** Sistema de Control de Stock  
 **Materia:** Ingeniería del Software  
@@ -30,7 +30,7 @@
 
 ---
 
-## 2. Descripción general del sistema
+##  Descripción general del sistema
 
 El **sistema de control de stock** permitirá a una tienda o depósito gestionar de forma digital el ingreso, salida y control de productos.  
 El objetivo principal es **mantener actualizada la información del inventario**, evitando pérdidas o desabastecimientos.
@@ -43,7 +43,7 @@ Los usuarios podrán:
 
 ---
 
-## 3. Actores del sistema
+##  Actores del sistema
 
 | **Actor** | **Descripción** | **Funciones principales** |
 |------------|------------------|-----------------------------|
@@ -52,7 +52,7 @@ Los usuarios podrán:
 
 ---
 
-## 4. Requisitos funcionales
+##  Requisitos funcionales
 
 | **ID** | **Requisito** | **Descripción** |
 |---------|----------------|------------------|
@@ -65,7 +65,7 @@ Los usuarios podrán:
 
 ---
 
-## 5. Requisitos no funcionales
+##  Requisitos no funcionales
 
 | **ID** | **Requisito** | **Descripción** |
 |---------|----------------|------------------|
@@ -77,7 +77,7 @@ Los usuarios podrán:
 
 ---
 
-## 6. Tecnologías y entorno
+##  Tecnologías y entorno
 
 | **Componente** | **Tecnología seleccionada** |
 |-----------------|------------------------------|
@@ -91,7 +91,7 @@ Los usuarios podrán:
 
 ---
 
-## 7. Planificación ágil
+##  Planificación ágil
 
 El desarrollo se realizará en **3 iteraciones (sprints)** de aproximadamente 3 semanas cada una.
 
@@ -103,7 +103,7 @@ El desarrollo se realizará en **3 iteraciones (sprints)** de aproximadamente 3 
 
 ---
 
-## 8. Historias de usuario (resumen)
+##  Historias de usuario (resumen)
 
 | **ID** | **Historia de usuario** | **Prioridad** | **Tiempo estimado** |
 |---------|--------------------------|----------------|----------------------|
@@ -114,7 +114,7 @@ El desarrollo se realizará en **3 iteraciones (sprints)** de aproximadamente 3 
 
 ---
 
-## 9. Criterios de aceptación generales
+##  Criterios de aceptación generales
 
 - Todos los campos obligatorios deben validarse antes de guardar.  
 - Las operaciones deben registrarse en la base de datos.  
@@ -123,7 +123,7 @@ El desarrollo se realizará en **3 iteraciones (sprints)** de aproximadamente 3 
 
 ---
 
-## 10. Riesgos y consideraciones
+##  Riesgos y consideraciones
 
 - Posible falta de disponibilidad del servidor o conexión a la base de datos.  
 - Cambios en requerimientos del cliente durante el desarrollo.  
