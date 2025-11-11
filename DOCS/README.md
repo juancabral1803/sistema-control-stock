@@ -1,5 +1,5 @@
 Sistema de Control de Stock
-Trabajo Integrador – Ingeniería del Software
+– Ingeniería del Software
 
 Docente: Luis Papazoglu
 Metodologías: Scrum + Extreme Programming (XP)
@@ -10,12 +10,12 @@ El Sistema de Control de Stock es una aplicación web desarrollada como trabajo 
 
 El sistema permite gestionar de manera eficiente el inventario de una tienda o depósito, registrando productos, controlando movimientos de entrada y salida, mostrando alertas automáticas por bajo stock y generando informes de existencias.
 
-🎯 Objetivo del proyecto
+Objetivo del proyecto
 
 Diseñar, desarrollar y documentar un sistema de software aplicando los principios de las metodologías ágiles.
 Se buscó cumplir con entregas iterativas e incrementales, priorizando la comunicación, la calidad del código y la satisfacción del cliente.
 
-🧩 Funcionalidades principales
+Funcionalidades principales
 
 Registro de productos: permite crear, editar y eliminar artículos.
 
@@ -29,7 +29,7 @@ Gestión de usuarios y roles: controla accesos y permisos según perfil.
 
 Interfaz web responsiva: diseño claro, moderno y fácil de usar.
 
-⚙️ Tecnologías utilizadas
+Tecnologías utilizadas
 Componente	Tecnología
 Lenguaje backend	Java
 Framework	Spring Boot
@@ -38,7 +38,7 @@ Base de datos	MySQL
 Testing	JUnit 5
 Control de versiones	Git + GitHub
 Metodologías	Scrum + XP
-📂 Estructura del repositorio
+Estructura del repositorio
 📦 sistema-control-stock/
  ┣ 📂 docs/
  ┃ ┣ 📂 iteracion_1/
@@ -58,8 +58,8 @@ Metodologías	Scrum + XP
  ┣ 📄 README.md
  ┗ 📄 .gitignore
 
-🚀 Ejecución del proyecto
-🧱 Requisitos previos
+Ejecución del proyecto
+Requisitos previos
 
 Java JDK 11 o superior
 
@@ -69,7 +69,7 @@ Maven o Gradle
 
 Spring Boot 2.7+
 
-▶️ Pasos para ejecución local
+Pasos para ejecución local
 
 Clonar el repositorio:
 
@@ -92,21 +92,20 @@ Ejecutar la aplicación:
 
 mvn spring-boot:run
 
-
 Abrir el navegador y acceder a:
-👉 http://localhost:8080
+http://localhost:8080
 
-👥 Equipo de desarrollo
+Equipo de desarrollo
 Rol	Integrante
-Product Owner	María López
-Scrum Master	Juan Pérez
-Equipo de Desarrollo	Carlos Gómez – Ana Díaz
-📅 Iteraciones realizadas
+Product Owner	Cabral Juan
+Scrum Master	Silclir Alejandro
+Equipo de Desarrollo	Ruiz Diaz Rocio – Silclir Alejandro
+Iteraciones realizadas
 Iteración	Objetivo principal	Historias completadas
 Iteración 1	Registro y salida de productos	HU1 – HU2
 Iteración 2	Alertas e informes de stock	HU3 – HU4
 Iteración 3	Optimización, seguridad e interfaz	HU5 – HU6 – HU7
-🧭 Conclusión
+Conclusión
 
 El proyecto cumplió con todos los objetivos establecidos, logrando un sistema estable, seguro y de fácil mantenimiento.
 La aplicación de Scrum permitió organizar el trabajo en iteraciones con entregas continuas, mientras que las prácticas de XP (pair programming, testing, refactorización) garantizaron calidad y colaboración constante.
